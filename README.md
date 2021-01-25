@@ -1,5 +1,5 @@
 # vimconf
-
+###1.引入自定义配置文件
 .vimrc中引入vimconf文件夹下的vim自定义配置文件vimrc.customize
 引入自定义配置文件的方式：
 ···
